@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-  - type: input
+  - type: dropdown
     id: crowd-edition
     attributes:
       label: crowd.dev edition
