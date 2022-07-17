@@ -35,4 +35,4 @@
 - Please, be as specific as possible when submitting bug reports or feature/enhancement requests! 😃  
 
 ## Vulnerabilities  
-	- If you have found a vulnerability in [crowd.dev](http://crowd.dev/) we would appreciate it if you would notify us via email at [joan@crowd.dev](mailto:joan@crowd.dev) instead of publicly as the vulnerability might need to be addressed first.  
+- If you have found a vulnerability in [crowd.dev](http://crowd.dev/) we would appreciate it if you would notify us via email at [joan@crowd.dev](mailto:joan@crowd.dev) instead of publicly as the vulnerability might need to be addressed first.  
