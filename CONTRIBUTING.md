@@ -1,4 +1,5 @@
 # Contributing  
+
 	- We love your input! We want to make contributing to this project as easy and transparent as possible. If you wish to contribute please first discuss the change you wish to make via an issue, [Discord](https://discord.com/invite/y5cAZDunvJ), or [email](mailto:[joan@crowd.dev]) with us.  
 	- If you do not know on what to contribute, please send us a small overview of your experience and optionally what you would like to learn. We will get back to you as soon as possible with proposed issues.  
 ## We develop with GitHub  
