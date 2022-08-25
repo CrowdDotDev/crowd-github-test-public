@@ -13,7 +13,8 @@ categories:
   - title: '📜 Documentation'
     labels:
       - 'type:documentation 📜'
-change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
+change-template: '- $TITLE @$AUTHOR (#$NUMBER)
+ $BODY'
 change-title-escapes: '\<*_&' # You can add # and @ to disable mentions, and add ` to disable code blocks.
 version-resolver:
   major:
